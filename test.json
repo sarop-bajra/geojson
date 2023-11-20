@@ -692,11 +692,11 @@
                             6249550.281
                         ]
                     ]
-                ]
-    },
-    properties: {
-    GIS_ID: 1417993,
-    SUBURB_NAME: "Sefton"
+            ]
+        },
+        properties: {
+            GIS_ID: 1417993,
+            SUBURB_NAME: "Sefton"
             }
         }
     ]
