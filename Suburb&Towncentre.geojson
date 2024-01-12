@@ -20,7 +20,8 @@
         "LAST_MODIFIED_USER": "XCHGDOM\\576149",
         "DATA_QUALITY": "",
         "DATA_SOURCE": "",
-        "MI_PRINX": 1
+        "MI_PRINX": 1,
+        "LABEL": "SEFTON"
       },
       "geometry": {
         "type": "Polygon",
