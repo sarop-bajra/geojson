@@ -7,6 +7,120 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.019714,-33.911292 ]
+    },
+    "properties": {
+    "assetID":"STF10965",
+    "assetname":"102360 William Street, STF10965, Bollard",
+    "location":"William Street, Bankstown",
+    "segmentID":"William Street",
+    "ward":"Bankstown",
+    "locality":"102360 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019932,-33.911202 ]
+    },
+    "properties": {
+    "assetID":"STF10966",
+    "assetname":"037960 Glassop Street, STF10966, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037960 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019894,-33.911198 ]
+    },
+    "properties": {
+    "assetID":"STF10967",
+    "assetname":"037960 Glassop Street, STF10967, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037960 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019778,-33.911048 ]
+    },
+    "properties": {
+    "assetID":"STF10968",
+    "assetname":"102370 William Street, STF10968, Bollard",
+    "location":"William Street, Yagoona",
+    "segmentID":"William Street",
+    "ward":"Bass Hill",
+    "locality":"102370 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019786,-33.911015 ]
+    },
+    "properties": {
+    "assetID":"STF10969",
+    "assetname":"102370 William Street, STF10969, Bollard",
+    "location":"William Street, Yagoona",
+    "segmentID":"William Street",
+    "ward":"Bass Hill",
+    "locality":"102370 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019595,-33.911149 ]
+    },
+    "properties": {
+    "assetID":"STF10970",
+    "assetname":"037950 Glassop Street, STF10970, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037950 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.019595,-33.911149 ]
     },
     "properties": {
