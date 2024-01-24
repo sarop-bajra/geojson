@@ -7,6 +7,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.026098,-33.956736 ]
+    },
+    "properties": {
+    "assetID":"STF10975",
+    "assetname":"096140 Uranus Road, STF10975, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.026137,-33.956743 ]
     },
     "properties": {
