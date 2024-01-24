@@ -7,6 +7,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.021496,-33.911348 ]
+    },
+    "properties": {
+    "assetID":"STF10974",
+    "assetname":"029630 Dutton Street, STF10974, Bollard",
+    "location":"Dutton Street, Yagoona",
+    "segmentID":"Dutton Street",
+    "ward":"Bass Hill",
+    "locality":"029630 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.026098,-33.956736 ]
     },
     "properties": {
