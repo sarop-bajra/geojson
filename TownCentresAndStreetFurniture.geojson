@@ -7,6 +7,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.019595,-33.911149 ]
+    },
+    "properties": {
+    "assetID":"STF10970",
+    "assetname":"037950 Glassop Street, STF10970, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037950 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.021504,-33.911316 ]
     },
     "properties": {
