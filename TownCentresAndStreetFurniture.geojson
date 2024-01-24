@@ -7,6 +7,101 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.011854,-33.928898 ]
+    },
+    "properties": {
+    "assetID":"STF10960",
+    "assetname":"030015 Edgar Street, STF10960, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.012046,-33.928823 ]
+    },
+    "properties": {
+    "assetID":"STF10961",
+    "assetname":"030015 Edgar Street, STF10961, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011579,-33.944305 ]
+    },
+    "properties": {
+    "assetID":"STF10962",
+    "assetname":"031610 Ely Street, STF10962, Bollard",
+    "location":"Ely Street, Revesby",
+    "segmentID":"Ely Street",
+    "ward":"Revesby",
+    "locality":"031610 Ely Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019559,-33.911147 ]
+    },
+    "properties": {
+    "assetID":"STF10963",
+    "assetname":"037950 Glassop Street, STF10963, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037950 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019717,-33.911331 ]
+    },
+    "properties": {
+    "assetID":"STF10964",
+    "assetname":"102360 William Street, STF10964, Bollard",
+    "location":"William Street, Bankstown",
+    "segmentID":"William Street",
+    "ward":"Bankstown",
+    "locality":"102360 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.019714,-33.911292 ]
     },
     "properties": {
