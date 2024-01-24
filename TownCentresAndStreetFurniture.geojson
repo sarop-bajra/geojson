@@ -7,6 +7,25 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.102939,-33.912337 ]
+    },
+    "properties": {
+    "assetID":"STF10982",
+    "assetname":"537730 Amy Street, STF10982, Bollard",
+    "location":"Amy Street, Campsie",
+    "segmentID":"Amy Street",
+    "ward":"Canterbury",
+    "locality":"537730 Amy Street",
+    "assetType":"Street Furniture",
+    "suburb":"Campsie",
+    "hierarchy":"Town Centre",
+    "hierarchy-suburb":"Town Centre-Campsie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.015719,-33.95345 ]
     },
     "properties": {
