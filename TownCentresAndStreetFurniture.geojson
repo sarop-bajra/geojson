@@ -3,6 +3,25 @@
 "name": "Town_Centres",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+ {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.015528,-33.952702 ]
+    },
+    "properties": {
+    "assetID":"STF10984",
+    "assetname":"011710 Blamey Street, STF10984, Bin",
+    "location":"Blamey Street, Revesby",
+    "segmentID":"Blamey Street",
+    "ward":"Revesby",
+    "locality":"011710 Blamey Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
