@@ -7,25 +7,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 151.057044,-33.908784 ]
-    },
-    "properties": {
-    "assetID":"STF10937",
-    "assetname":"099930 Waterloo Road, STF10937, Bin",
-    "location":"Waterloo Road, Greenacre",
-    "segmentID":"Waterloo Road",
-    "ward":"Bankstown",
-    "locality":"099930 Waterloo Road",
-    "assetType":"Street Furniture",
-    "suburb":"Greenacre",
-    "hierarchy":"Local Centre",
-    "hierarchy-suburb":"Local Centre-Greenacre"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 151.047236,-33.917861 ]
     },
     "properties": {
