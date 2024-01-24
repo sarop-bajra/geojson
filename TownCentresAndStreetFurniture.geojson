@@ -3,6 +3,842 @@
 "name": "Town_Centres",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.057044,-33.908784 ]
+    },
+    "properties": {
+    "assetID":"STF10937",
+    "assetname":"099930 Waterloo Road, STF10937, Bin",
+    "location":"Waterloo Road, Greenacre",
+    "segmentID":"Waterloo Road",
+    "ward":"Bankstown",
+    "locality":"099930 Waterloo Road",
+    "assetType":"Street Furniture",
+    "suburb":"Greenacre",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Greenacre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.047236,-33.917861 ]
+    },
+    "properties": {
+    "assetID":"STF10938",
+    "assetname":"100220 Wattle Street, STF10938, Bin",
+    "location":"Wattle Street, Mount Lewis",
+    "segmentID":"Wattle Street",
+    "ward":"Bankstown",
+    "locality":"100220 Wattle Street",
+    "assetType":"Street Furniture",
+    "suburb":"Mount Lewis",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Mount Lewis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.047601,-33.91791 ]
+    },
+    "properties": {
+    "assetID":"STF10939",
+    "assetname":"100220 Wattle Street, STF10939, Bin",
+    "location":"Wattle Street, Mount Lewis",
+    "segmentID":"Wattle Street",
+    "ward":"Bankstown",
+    "locality":"100220 Wattle Street",
+    "assetType":"Street Furniture",
+    "suburb":"Mount Lewis",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Mount Lewis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.035005,-33.918744 ]
+    },
+    "properties": {
+    "assetID":"STF10940",
+    "assetname":"080630 Restwell Street, STF10940, Bin",
+    "location":"Restwell Street, Bankstown",
+    "segmentID":"Restwell Street",
+    "ward":"Bankstown",
+    "locality":"080630 Restwell Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.031782,-33.919575 ]
+    },
+    "properties": {
+    "assetID":"STF10941",
+    "assetname":"040210 Greenfield Parade, STF10941, Bin",
+    "location":"Greenfield Parade, Bankstown",
+    "segmentID":"Greenfield Parade",
+    "ward":"Bankstown",
+    "locality":"040210 Greenfield Parade",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.035292,-33.917263 ]
+    },
+    "properties": {
+    "assetID":"STF10942",
+    "assetname":"071410 North Terrace, STF10942, Bin",
+    "location":"North Terrace, Bankstown",
+    "segmentID":"North Terrace",
+    "ward":"Bankstown",
+    "locality":"071410 North Terrace",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.035389,-33.916979 ]
+    },
+    "properties": {
+    "assetID":"STF10943",
+    "assetname":"093110 The Appian Way, STF10943, Bin",
+    "location":"The Appian Way, Bankstown",
+    "segmentID":"The Appian Way",
+    "ward":"Bankstown",
+    "locality":"093110 The Appian Way",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.025781,-33.907527 ]
+    },
+    "properties": {
+    "assetID":"STF10944",
+    "assetname":"047152 Hume Highway, STF10944, Bin",
+    "location":"Hume Highway, Yagoona",
+    "segmentID":"Hume Highway",
+    "ward":"Bass Hill",
+    "locality":"047152 Hume Highway",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.024462,-33.90729 ]
+    },
+    "properties": {
+    "assetID":"STF10945",
+    "assetname":"047151 Hume Highway, STF10945, Bin",
+    "location":"Hume Highway, Yagoona",
+    "segmentID":"Hume Highway",
+    "ward":"Bass Hill",
+    "locality":"047151 Hume Highway",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.023495,-33.907152 ]
+    },
+    "properties": {
+    "assetID":"STF10946",
+    "assetname":"047150 Hume Highway, STF10946, Bin",
+    "location":"Hume Highway, Yagoona",
+    "segmentID":"Hume Highway",
+    "ward":"Bass Hill",
+    "locality":"047150 Hume Highway",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.001527,-33.883291 ]
+    },
+    "properties": {
+    "assetID":"STF10947",
+    "assetname":"098430 Waldron Road, STF10947, Bin",
+    "location":"Waldron Road, Chester Hill",
+    "segmentID":"Waldron Road",
+    "ward":"Bass Hill",
+    "locality":"098430 Waldron Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.02741,-33.932935 ]
+    },
+    "properties": {
+    "assetID":"STF10948",
+    "assetname":"019905 Chapel Road, STF10948, Bin",
+    "location":"Chapel Road, Bankstown",
+    "segmentID":"Chapel Road",
+    "ward":"Bankstown",
+    "locality":"019905 Chapel Road",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.052036,-33.944908 ]
+    },
+    "properties": {
+    "assetID":"STF10949",
+    "assetname":"555740 Kentucky Road, STF10949, Bin",
+    "location":"Kentucky Road, Riverwood",
+    "segmentID":"Kentucky Road",
+    "ward":"Roselands",
+    "locality":"555740 Kentucky Road",
+    "assetType":"Street Furniture",
+    "suburb":"Riverwood",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Riverwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.052145,-33.94487 ]
+    },
+    "properties": {
+    "assetID":"STF10950",
+    "assetname":"555740 Kentucky Road, STF10950, Bin",
+    "location":"Kentucky Road, Riverwood",
+    "segmentID":"Kentucky Road",
+    "ward":"Roselands",
+    "locality":"555740 Kentucky Road",
+    "assetType":"Street Furniture",
+    "suburb":"Riverwood",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Riverwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.070094,-33.94838 ]
+    },
+    "properties": {
+    "assetID":"STF10951",
+    "assetname":"505910 Fisher Place, STF10951, Bin",
+    "location":"Fisher Place, Narwee",
+    "segmentID":"Fisher Place",
+    "ward":"Roselands",
+    "locality":"505910 Fisher Place",
+    "assetType":"Street Furniture",
+    "suburb":"Narwee",
+    "hierarchy":"Village Centre",
+    "hierarchy-suburb":"Village Centre-Narwee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.014574,-33.950875 ]
+    },
+    "properties": {
+    "assetID":"STF10952",
+    "assetname":"086010 Selems Parade, STF10952, Bin",
+    "location":"Selems Parade, Revesby",
+    "segmentID":"Selems Parade",
+    "ward":"Revesby",
+    "locality":"086010 Selems Parade",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.997011,-33.955937 ]
+    },
+    "properties": {
+    "assetID":"STF10954",
+    "assetname":"094515 Tower Street, STF10954, Bin",
+    "location":"Tower Street, Panania",
+    "segmentID":"Tower Street",
+    "ward":"Revesby",
+    "locality":"094515 Tower Street",
+    "assetType":"Street Furniture",
+    "suburb":"Panania",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Panania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.996789,-33.956032 ]
+    },
+    "properties": {
+    "assetID":"STF10955",
+    "assetname":"094515 Tower Street, STF10955, Bin",
+    "location":"Tower Street, Panania",
+    "segmentID":"Tower Street",
+    "ward":"Revesby",
+    "locality":"094515 Tower Street",
+    "assetType":"Street Furniture",
+    "suburb":"Panania",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Panania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011994,-33.928823 ]
+    },
+    "properties": {
+    "assetID":"STF10956",
+    "assetname":"030015 Edgar Street, STF10956, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011704,-33.928778 ]
+    },
+    "properties": {
+    "assetID":"STF10957",
+    "assetname":"030015 Edgar Street, STF10957, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011754,-33.928777 ]
+    },
+    "properties": {
+    "assetID":"STF10958",
+    "assetname":"030015 Edgar Street, STF10958, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011846,-33.928943 ]
+    },
+    "properties": {
+    "assetID":"STF10959",
+    "assetname":"030015 Edgar Street, STF10959, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011854,-33.928898 ]
+    },
+    "properties": {
+    "assetID":"STF10960",
+    "assetname":"030015 Edgar Street, STF10960, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.012046,-33.928823 ]
+    },
+    "properties": {
+    "assetID":"STF10961",
+    "assetname":"030015 Edgar Street, STF10961, Bollard",
+    "location":"Edgar Street, Condell Park",
+    "segmentID":"Edgar Street",
+    "ward":"Revesby",
+    "locality":"030015 Edgar Street",
+    "assetType":"Street Furniture",
+    "suburb":"Condell Park",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Condell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011579,-33.944305 ]
+    },
+    "properties": {
+    "assetID":"STF10962",
+    "assetname":"031610 Ely Street, STF10962, Bollard",
+    "location":"Ely Street, Revesby",
+    "segmentID":"Ely Street",
+    "ward":"Revesby",
+    "locality":"031610 Ely Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019559,-33.911147 ]
+    },
+    "properties": {
+    "assetID":"STF10963",
+    "assetname":"037950 Glassop Street, STF10963, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037950 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019717,-33.911331 ]
+    },
+    "properties": {
+    "assetID":"STF10964",
+    "assetname":"102360 William Street, STF10964, Bollard",
+    "location":"William Street, Bankstown",
+    "segmentID":"William Street",
+    "ward":"Bankstown",
+    "locality":"102360 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019714,-33.911292 ]
+    },
+    "properties": {
+    "assetID":"STF10965",
+    "assetname":"102360 William Street, STF10965, Bollard",
+    "location":"William Street, Bankstown",
+    "segmentID":"William Street",
+    "ward":"Bankstown",
+    "locality":"102360 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019932,-33.911202 ]
+    },
+    "properties": {
+    "assetID":"STF10966",
+    "assetname":"037960 Glassop Street, STF10966, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037960 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019894,-33.911198 ]
+    },
+    "properties": {
+    "assetID":"STF10967",
+    "assetname":"037960 Glassop Street, STF10967, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037960 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019778,-33.911048 ]
+    },
+    "properties": {
+    "assetID":"STF10968",
+    "assetname":"102370 William Street, STF10968, Bollard",
+    "location":"William Street, Yagoona",
+    "segmentID":"William Street",
+    "ward":"Bass Hill",
+    "locality":"102370 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019786,-33.911015 ]
+    },
+    "properties": {
+    "assetID":"STF10969",
+    "assetname":"102370 William Street, STF10969, Bollard",
+    "location":"William Street, Yagoona",
+    "segmentID":"William Street",
+    "ward":"Bass Hill",
+    "locality":"102370 William Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.019595,-33.911149 ]
+    },
+    "properties": {
+    "assetID":"STF10970",
+    "assetname":"037950 Glassop Street, STF10970, Bollard",
+    "location":"Glassop Street, Yagoona",
+    "segmentID":"Glassop Street",
+    "ward":"Bass Hill",
+    "locality":"037950 Glassop Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021504,-33.911316 ]
+    },
+    "properties": {
+    "assetID":"STF10971",
+    "assetname":"029630 Dutton Street, STF10971, Bollard",
+    "location":"Dutton Street, Yagoona",
+    "segmentID":"Dutton Street",
+    "ward":"Bass Hill",
+    "locality":"029630 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021463,-33.911519 ]
+    },
+    "properties": {
+    "assetID":"STF10972",
+    "assetname":"029620 Dutton Street, STF10972, Bollard",
+    "location":"Dutton Street, Bankstown",
+    "segmentID":"Dutton Street",
+    "ward":"Bankstown",
+    "locality":"029620 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021471,-33.911484 ]
+    },
+    "properties": {
+    "assetID":"STF10973",
+    "assetname":"029620 Dutton Street, STF10973, Bollard",
+    "location":"Dutton Street, Bankstown",
+    "segmentID":"Dutton Street",
+    "ward":"Bankstown",
+    "locality":"029620 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021496,-33.911348 ]
+    },
+    "properties": {
+    "assetID":"STF10974",
+    "assetname":"029630 Dutton Street, STF10974, Bollard",
+    "location":"Dutton Street, Yagoona",
+    "segmentID":"Dutton Street",
+    "ward":"Bass Hill",
+    "locality":"029630 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.026098,-33.956736 ]
+    },
+    "properties": {
+    "assetID":"STF10975",
+    "assetname":"096140 Uranus Road, STF10975, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.026137,-33.956743 ]
+    },
+    "properties": {
+    "assetID":"STF10976",
+    "assetname":"096140 Uranus Road, STF10976, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.026372,-33.956826 ]
+    },
+    "properties": {
+    "assetID":"STF10977",
+    "assetname":"096140 Uranus Road, STF10977, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.026403,-33.956844 ]
+    },
+    "properties": {
+    "assetID":"STF10978",
+    "assetname":"096140 Uranus Road, STF10978, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.102914,-33.912346 ]
+    },
+    "properties": {
+    "assetID":"STF10979",
+    "assetname":"537730 Amy Street, STF10979, Bollard",
+    "location":"Amy Street, Campsie",
+    "segmentID":"Amy Street",
+    "ward":"Canterbury",
+    "locality":"537730 Amy Street",
+    "assetType":"Street Furniture",
+    "suburb":"Campsie",
+    "hierarchy":"Town Centre",
+    "hierarchy-suburb":"Town Centre-Campsie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.102896,-33.912268 ]
+    },
+    "properties": {
+    "assetID":"STF10980",
+    "assetname":"537730 Amy Street, STF10980, Bollard",
+    "location":"Amy Street, Campsie",
+    "segmentID":"Amy Street",
+    "ward":"Canterbury",
+    "locality":"537730 Amy Street",
+    "assetType":"Street Furniture",
+    "suburb":"Campsie",
+    "hierarchy":"Town Centre",
+    "hierarchy-suburb":"Town Centre-Campsie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.10287,-33.912276 ]
+    },
+    "properties": {
+    "assetID":"STF10981",
+    "assetname":"537730 Amy Street, STF10981, Bollard",
+    "location":"Amy Street, Campsie",
+    "segmentID":"Amy Street",
+    "ward":"Canterbury",
+    "locality":"537730 Amy Street",
+    "assetType":"Street Furniture",
+    "suburb":"Campsie",
+    "hierarchy":"Town Centre",
+    "hierarchy-suburb":"Town Centre-Campsie"
+    }
+  },
  {
     "type": "Feature",
     "geometry": {
