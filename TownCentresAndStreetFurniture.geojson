@@ -7,6 +7,63 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 151.021504,-33.911316 ]
+    },
+    "properties": {
+    "assetID":"STF10971",
+    "assetname":"029630 Dutton Street, STF10971, Bollard",
+    "location":"Dutton Street, Yagoona",
+    "segmentID":"Dutton Street",
+    "ward":"Bass Hill",
+    "locality":"029630 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021463,-33.911519 ]
+    },
+    "properties": {
+    "assetID":"STF10972",
+    "assetname":"029620 Dutton Street, STF10972, Bollard",
+    "location":"Dutton Street, Bankstown",
+    "segmentID":"Dutton Street",
+    "ward":"Bankstown",
+    "locality":"029620 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021471,-33.911484 ]
+    },
+    "properties": {
+    "assetID":"STF10973",
+    "assetname":"029620 Dutton Street, STF10973, Bollard",
+    "location":"Dutton Street, Bankstown",
+    "segmentID":"Dutton Street",
+    "ward":"Bankstown",
+    "locality":"029620 Dutton Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 151.021496,-33.911348 ]
     },
     "properties": {
