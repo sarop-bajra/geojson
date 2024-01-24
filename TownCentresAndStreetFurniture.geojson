@@ -3,6 +3,25 @@
 "name": "Town_Centres",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.026372,-33.956826 ]
+    },
+    "properties": {
+    "assetID":"STF10977",
+    "assetname":"096140 Uranus Road, STF10977, Bollard",
+    "location":"Uranus Road, Padstow",
+    "segmentID":"Uranus Road",
+    "ward":"Revesby",
+    "locality":"096140 Uranus Road",
+    "assetType":"Street Furniture",
+    "suburb":"Padstow",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Padstow"
+    }
+  },
  {
     "type": "Feature",
     "geometry": {
