@@ -3,6 +3,446 @@
 "name": "Town_Centres",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.032986,-33.917304 ]
+    },
+    "properties": {
+    "assetID":"STF01629",
+    "assetname":"062496 Marion Street, STF01629, Bin",
+    "location":"Marion Street, Bankstown",
+    "segmentID":"Marion Street",
+    "ward":"Bankstown",
+    "locality":"062496 Marion Street",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.057122,-33.907218 ]
+    },
+    "properties": {
+    "assetID":"STF01741",
+    "assetname":"099930 Waterloo Road, STF01741, Bin",
+    "location":"Waterloo Road, Greenacre",
+    "segmentID":"Waterloo Road",
+    "ward":"Bankstown",
+    "locality":"099930 Waterloo Road",
+    "assetType":"Street Furniture",
+    "suburb":"Greenacre",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Greenacre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.034795,-33.919227 ]
+    },
+    "properties": {
+    "assetID":"STF02086",
+    "assetname":"040210 Greenfield Parade, STF02086, Bin",
+    "location":"Greenfield Parade, Bankstown",
+    "segmentID":"Greenfield Parade",
+    "ward":"Bankstown",
+    "locality":"040210 Greenfield Parade",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.037008,-33.9186 ]
+    },
+    "properties": {
+    "assetID":"STF02137",
+    "assetname":"101210 West Terrace, STF02137, Bin",
+    "location":"West Terrace, Bankstown",
+    "segmentID":"West Terrace",
+    "ward":"Bankstown",
+    "locality":"101210 West Terrace",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.03358,-33.91833 ]
+    },
+    "properties": {
+    "assetID":"STF02153",
+    "assetname":"146420 Bankstown City Plaza, STF02153, Bin",
+    "location":"Bankstown City Plaza, Bankstown",
+    "segmentID":"Bankstown City Plaza",
+    "ward":"Bankstown",
+    "locality":"146420 Bankstown City Plaza",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.002615,-33.956768 ]
+    },
+    "properties": {
+    "assetID":"STF04792",
+    "assetname":"094525 Tower Street, STF04792, Bin",
+    "location":"Tower Street, Panania",
+    "segmentID":"Tower Street",
+    "ward":"Revesby",
+    "locality":"094525 Tower Street",
+    "assetType":"Street Furniture",
+    "suburb":"Panania",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Panania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.002799,-33.878721 ]
+    },
+    "properties": {
+    "assetID":"STF00070",
+    "assetname":"404110 Greendale Pathway, STF00070, Bollard",
+    "location":"Greendale Pathway, Chester Hill",
+    "segmentID":"Greendale Pathway",
+    "ward":"Bass Hill",
+    "locality":"404110 Greendale Pathway",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.986567,-33.877207 ]
+    },
+    "properties": {
+    "assetID":"STF00464",
+    "assetname":"011120 Birmingham Avenue, STF00464, Barrier Bollard",
+    "location":"Birmingham Avenue, Villawood",
+    "segmentID":"Birmingham Avenue",
+    "ward":"Bass Hill",
+    "locality":"011120 Birmingham Avenue",
+    "assetType":"Street Furniture",
+    "suburb":"Villawood",
+    "hierarchy":"Village Centre",
+    "hierarchy-suburb":"Village Centre-Villawood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.016804,-33.951851 ]
+    },
+    "properties": {
+    "assetID":"STF04384",
+    "assetname":"062055 Marco Avenue, STF04384, Bike Rack",
+    "location":"Marco Avenue, Revesby",
+    "segmentID":"Marco Avenue",
+    "ward":"Revesby",
+    "locality":"062055 Marco Avenue",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.015427,-33.951219 ]
+    },
+    "properties": {
+    "assetID":"STF04444",
+    "assetname":"086010 Selems Parade, STF04444, Bike Rack",
+    "location":"Selems Parade, Revesby",
+    "segmentID":"Selems Parade",
+    "ward":"Revesby",
+    "locality":"086010 Selems Parade",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.015706,-33.951439 ]
+    },
+    "properties": {
+    "assetID":"STF04452",
+    "assetname":"087310 Simmons Street, STF04452, Bike Rack",
+    "location":"Simmons Street, Revesby",
+    "segmentID":"Simmons Street",
+    "ward":"Revesby",
+    "locality":"087310 Simmons Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.01002,-33.943736 ]
+    },
+    "properties": {
+    "assetID":"STF04488",
+    "assetname":"078430 Queen Street, STF04488, Bike Rack",
+    "location":"Queen Street, Revesby",
+    "segmentID":"Queen Street",
+    "ward":"Revesby",
+    "locality":"078430 Queen Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.018925,-33.965729 ]
+    },
+    "properties": {
+    "assetID":"STF04651",
+    "assetname":"019610 Centaur Street, STF04651, Bike Rack",
+    "location":"Centaur Street, Revesby Heights",
+    "segmentID":"Centaur Street",
+    "ward":"Revesby",
+    "locality":"019610 Centaur Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby Heights",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Revesby Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.015029,-33.952738 ]
+    },
+    "properties": {
+    "assetID":"STF04691",
+    "assetname":"011710 Blamey Street, STF04691, Bike Rack",
+    "location":"Blamey Street, Revesby",
+    "segmentID":"Blamey Street",
+    "ward":"Revesby",
+    "locality":"011710 Blamey Street",
+    "assetType":"Street Furniture",
+    "suburb":"Revesby",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Revesby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.03433,-33.918026 ]
+    },
+    "properties": {
+    "assetID":"STF05514",
+    "assetname":"Bankstown Railway Line, STF05514, Bike Rack",
+    "location":"Bankstown Railway Line, Bankstown",
+    "segmentID":"Bankstown Railway Line",
+    "ward":"Bankstown",
+    "locality":"Bankstown Railway Line",
+    "assetType":"Street Furniture",
+    "suburb":"Bankstown",
+    "hierarchy":"City Centre",
+    "hierarchy-suburb":"City Centre-Bankstown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.025816,-33.907273 ]
+    },
+    "properties": {
+    "assetID":"STF00009",
+    "assetname":"024210 Cooper Road, STF00009, Bin",
+    "location":"Cooper Road, Yagoona",
+    "segmentID":"Cooper Road",
+    "ward":"Bass Hill",
+    "locality":"024210 Cooper Road",
+    "assetType":"Street Furniture",
+    "suburb":"Yagoona",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Yagoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.993182,-33.871858 ]
+    },
+    "properties": {
+    "assetID":"STF00015",
+    "assetname":"065855 Miller Road, STF00015, Bin",
+    "location":"Miller Road, Chester Hill",
+    "segmentID":"Miller Road",
+    "ward":"Bass Hill",
+    "locality":"065855 Miller Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.993284,-33.872171 ]
+    },
+    "properties": {
+    "assetID":"STF00016",
+    "assetname":"065855 Miller Road, STF00016, Bin",
+    "location":"Miller Road, Chester Hill",
+    "segmentID":"Miller Road",
+    "ward":"Bass Hill",
+    "locality":"065855 Miller Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.999473,-33.875558 ]
+    },
+    "properties": {
+    "assetID":"STF00055",
+    "assetname":"004310 Arlewis Street, STF00055, Bin",
+    "location":"Arlewis Street, Chester Hill",
+    "segmentID":"Arlewis Street",
+    "ward":"Bass Hill",
+    "locality":"004310 Arlewis Street",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.011775,-33.88463 ]
+    },
+    "properties": {
+    "assetID":"STF00111",
+    "assetname":"018210 Carlingford Street, STF00111, Bin",
+    "location":"Carlingford Street, Sefton",
+    "segmentID":"Carlingford Street",
+    "ward":"Bass Hill",
+    "locality":"018210 Carlingford Street",
+    "assetType":"Street Furniture",
+    "suburb":"Sefton",
+    "hierarchy":"Small Village Centre",
+    "hierarchy-suburb":"Small Village Centre-Sefton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.998296,-33.8827 ]
+    },
+    "properties": {
+    "assetID":"STF00376",
+    "assetname":"098420 Waldron Road, STF00376, Bin",
+    "location":"Waldron Road, Chester Hill",
+    "segmentID":"Waldron Road",
+    "ward":"Bass Hill",
+    "locality":"098420 Waldron Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.999265,-33.882826 ]
+    },
+    "properties": {
+    "assetID":"STF00377",
+    "assetname":"098420 Waldron Road, STF00377, Bin",
+    "location":"Waldron Road, Chester Hill",
+    "segmentID":"Waldron Road",
+    "ward":"Bass Hill",
+    "locality":"098420 Waldron Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.999877,-33.882903 ]
+    },
+    "properties": {
+    "assetID":"STF00378",
+    "assetname":"098430 Waldron Road, STF00378, Bin",
+    "location":"Waldron Road, Chester Hill",
+    "segmentID":"Waldron Road",
+    "ward":"Bass Hill",
+    "locality":"098430 Waldron Road",
+    "assetType":"Street Furniture",
+    "suburb":"Chester Hill",
+    "hierarchy":"Local Centre",
+    "hierarchy-suburb":"Local Centre-Chester Hill"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
