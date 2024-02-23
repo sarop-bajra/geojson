@@ -1,0 +1,467 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "BCC.AST_CBC_NATURE_STRIP",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.989469, -33.872443 ],
+							[ 150.989545, -33.872061 ],
+							[ 150.989546, -33.872056 ],
+							[ 150.98948, -33.872063 ],
+							[ 150.989466, -33.872108 ],
+							[ 150.989397, -33.872476 ],
+							[ 150.989396, -33.87248 ],
+							[ 150.989396, -33.872484 ],
+							[ 150.989396, -33.872487 ],
+							[ 150.989732, -33.872453 ],
+							[ 150.989734, -33.872445 ],
+							[ 150.989728, -33.872445 ],
+							[ 150.989499, -33.872469 ],
+							[ 150.989469, -33.872443 ]
+						]
+					],
+					[
+						[
+							[ 150.989645, -33.872551 ],
+							[ 150.989683, -33.872546 ],
+							[ 150.989715, -33.872542 ],
+							[ 150.98973, -33.872464 ],
+							[ 150.989443, -33.872493 ],
+							[ 150.989438, -33.872531 ],
+							[ 150.989442, -33.872544 ],
+							[ 150.989448, -33.872545 ],
+							[ 150.989528, -33.872552 ],
+							[ 150.989573, -33.872552 ],
+							[ 150.989606, -33.872553 ],
+							[ 150.989645, -33.872551 ]
+						]
+					],
+					[
+						[
+							[ 150.989418, -33.872527 ],
+							[ 150.989423, -33.872495 ],
+							[ 150.9894, -33.872497 ],
+							[ 150.989395, -33.8725 ],
+							[ 150.989396, -33.872504 ],
+							[ 150.989397, -33.872507 ],
+							[ 150.989398, -33.87251 ],
+							[ 150.9894, -33.872513 ],
+							[ 150.989401, -33.872516 ],
+							[ 150.989403, -33.872519 ],
+							[ 150.989405, -33.872522 ],
+							[ 150.989408, -33.872525 ],
+							[ 150.98941, -33.872527 ],
+							[ 150.989413, -33.87253 ],
+							[ 150.989418, -33.872527 ]
+						]
+					],
+					[
+						[
+							[ 150.989453, -33.872106 ],
+							[ 150.989446, -33.872129 ],
+							[ 150.989407, -33.87235 ],
+							[ 150.989453, -33.872106 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680282,
+				"TPKLPAPROP" : "189546",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS3",
+				"SEQUENCE_ID" : "34",
+				"LIST_CODE" : "NS3.35",
+				"NATURE_STRIP_ID" : "1IR-9QA-TM0-HFR",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : "Frontage & Sideline",
+				"NEW_TYPE" : "Frontage & Sideline",
+				"FREQUENCY" : null,
+				"LOCATION" : "76 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "76 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "76 Gurney Rd",
+				"SPATIAL_LENGTH" : "287",
+				"SPATIAL_AREA" : "534",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.989468600000009",
+				"LOCATION_Y" : "-33.872274179999998",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131905",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.994218, -33.875061 ],
+						[ 150.994154, -33.87487 ],
+						[ 150.994143, -33.874873 ],
+						[ 150.99421, -33.875063 ],
+						[ 150.994218, -33.875061 ]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680283,
+				"TPKLPAPROP" : "178645",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS2",
+				"SEQUENCE_ID" : "222",
+				"LIST_CODE" : "NS2.222",
+				"NATURE_STRIP_ID" : "UQL-MA7-3PZ-3LR",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : "-",
+				"FREQUENCY" : "every 4 weeks",
+				"LOCATION" : "127 Miller Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "127 Miller Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "VIRGIL CDS TO MILLER RD",
+				"SPATIAL_LENGTH" : "46",
+				"SPATIAL_AREA" : "19",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.994181400000002",
+				"LOCATION_Y" : "-33.874967069999997",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131905",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.988791, -33.866338 ],
+							[ 150.988782, -33.866336 ],
+							[ 150.988721, -33.866417 ],
+							[ 150.98837, -33.866903 ],
+							[ 150.988377, -33.866904 ],
+							[ 150.988789, -33.86634 ],
+							[ 150.988791, -33.866338 ]
+						]
+					],
+					[
+						[
+							[ 150.988344, -33.866918 ],
+							[ 150.988709, -33.86641 ],
+							[ 150.988327, -33.866916 ],
+							[ 150.988344, -33.866918 ]
+						]
+					],
+					[
+						[
+							[ 150.988752, -33.866332 ],
+							[ 150.988739, -33.86633 ],
+							[ 150.988737, -33.866333 ],
+							[ 150.988419, -33.866775 ],
+							[ 150.988752, -33.866332 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680284,
+				"TPKLPAPROP" : "219243",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS2",
+				"SEQUENCE_ID" : "236",
+				"LIST_CODE" : "NS2.236",
+				"NATURE_STRIP_ID" : "8R1-CGL-5U0-TLA",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : "-",
+				"FREQUENCY" : "every 4 weeks",
+				"LOCATION" : "35 Woodville Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "35 Woodville Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "26 ALPHA ST / LANEWAY TO WOODVILLE",
+				"SPATIAL_LENGTH" : "399",
+				"SPATIAL_AREA" : "141",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.988550300000014",
+				"LOCATION_Y" : "-33.866659970000001",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131907",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.986372, -33.872577 ],
+							[ 150.986353, -33.872551 ],
+							[ 150.986233, -33.872614 ],
+							[ 150.986251, -33.872639 ],
+							[ 150.986372, -33.872577 ]
+						]
+					],
+					[
+						[
+							[ 150.986138, -33.872264 ],
+							[ 150.986074, -33.872256 ],
+							[ 150.986031, -33.872277 ],
+							[ 150.98616, -33.872293 ],
+							[ 150.986138, -33.872264 ]
+						]
+					],
+					[
+						[
+							[ 150.986346, -33.872542 ],
+							[ 150.986343, -33.872539 ],
+							[ 150.986223, -33.872601 ],
+							[ 150.986226, -33.872604 ],
+							[ 150.986346, -33.872542 ]
+						]
+					],
+					[
+						[
+							[ 150.986127, -33.872248 ],
+							[ 150.986096, -33.872245 ],
+							[ 150.986091, -33.872247 ],
+							[ 150.98613, -33.872252 ],
+							[ 150.986127, -33.872248 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680285,
+				"TPKLPAPROP" : "201582",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS2",
+				"SEQUENCE_ID" : "234",
+				"LIST_CODE" : "NS2.234",
+				"NATURE_STRIP_ID" : "WCI-J3P-ZIY-OMH",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : "-",
+				"FREQUENCY" : "every 4 weeks",
+				"LOCATION" : "2 Minmai Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "2 Minmai Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "REAR OF 2 MINMAI RD",
+				"SPATIAL_LENGTH" : "94",
+				"SPATIAL_AREA" : "77",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.986302099999989",
+				"LOCATION_Y" : "-33.872595150000002",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131908",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.984514, -33.874591 ],
+							[ 150.984504, -33.874577 ],
+							[ 150.984392, -33.874635 ],
+							[ 150.984402, -33.874649 ],
+							[ 150.984514, -33.874591 ]
+						]
+					],
+					[
+						[
+							[ 150.984497, -33.874568 ],
+							[ 150.984494, -33.874564 ],
+							[ 150.984382, -33.874622 ],
+							[ 150.984385, -33.874625 ],
+							[ 150.984497, -33.874568 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680286,
+				"TPKLPAPROP" : "201694",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS2",
+				"SEQUENCE_ID" : "231",
+				"LIST_CODE" : "NS2.231",
+				"NATURE_STRIP_ID" : "1M3-ZHZ-8RS-ZCD",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : "-",
+				"FREQUENCY" : "every 4 weeks",
+				"LOCATION" : "54 Miowera Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "54 Miowera Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "MIOWERA ST C.D.S.",
+				"SPATIAL_LENGTH" : "53",
+				"SPATIAL_AREA" : "28",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.984453000000002",
+				"LOCATION_Y" : "-33.874612829999997",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131908",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.996193, -33.870958 ],
+							[ 150.996197, -33.870957 ],
+							[ 150.996202, -33.870955 ],
+							[ 150.996206, -33.870954 ],
+							[ 150.99621, -33.870952 ],
+							[ 150.996214, -33.87095 ],
+							[ 150.996218, -33.870947 ],
+							[ 150.996221, -33.870945 ],
+							[ 150.996225, -33.870942 ],
+							[ 150.996228, -33.870939 ],
+							[ 150.996231, -33.870936 ],
+							[ 150.996234, -33.870933 ],
+							[ 150.996237, -33.87093 ],
+							[ 150.996239, -33.870927 ],
+							[ 150.996241, -33.870923 ],
+							[ 150.996243, -33.87092 ],
+							[ 150.996244, -33.870916 ],
+							[ 150.996246, -33.870912 ],
+							[ 150.996247, -33.870909 ],
+							[ 150.996252, -33.870889 ],
+							[ 150.996258, -33.870852 ],
+							[ 150.996311, -33.87058 ],
+							[ 150.996278, -33.870587 ],
+							[ 150.996219, -33.870888 ],
+							[ 150.996174, -33.870929 ],
+							[ 150.996043, -33.87096 ],
+							[ 150.996024, -33.870964 ],
+							[ 150.996015, -33.871 ],
+							[ 150.996193, -33.870958 ]
+						]
+					],
+					[
+						[
+							[ 150.99622, -33.870963 ],
+							[ 150.996222, -33.870961 ],
+							[ 150.996211, -33.870964 ],
+							[ 150.99622, -33.870963 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12680287,
+				"TPKLPAPROP" : "189488",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : "NS3",
+				"SEQUENCE_ID" : "36",
+				"LIST_CODE" : "NS3.37",
+				"NATURE_STRIP_ID" : "F0J-ZZU-I2P-4WB",
+				"MOWING_TASK" : "YES",
+				"OLD_TYPE" : "Frontage & Sideline",
+				"NEW_TYPE" : "Frontage & Sideline",
+				"FREQUENCY" : null,
+				"LOCATION" : "22 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "22 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : "22 Gurney Rd",
+				"SPATIAL_LENGTH" : "126",
+				"SPATIAL_AREA" : "189",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.996267899999992",
+				"LOCATION_Y" : "-33.870719590000000",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : "20210317091852",
+				"LAST_SYNC_DATE" : "20210315131909",
+				"LAST_MODIFIED_USER" : "robert.noar",
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 6
+			}
+		}
+	]
+}
