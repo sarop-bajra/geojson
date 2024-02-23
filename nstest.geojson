@@ -109,6 +109,169 @@
 				"MI_PRINX" : 1
 			}
 		},
+{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.989689, -33.871429 ],
+						[ 150.989652, -33.871423 ],
+						[ 150.989624, -33.871554 ],
+						[ 150.98966, -33.871562 ],
+						[ 150.989661, -33.871556 ],
+						[ 150.989689, -33.871429 ]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12681921,
+				"TPKLPAPROP" : "227516",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : null,
+				"SEQUENCE_ID" : null,
+				"LIST_CODE" : null,
+				"NATURE_STRIP_ID" : "H5O-ERV-O70-FPH",
+				"MOWING_TASK" : "NO",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : null,
+				"FREQUENCY" : null,
+				"LOCATION" : "21 Brown Street\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "21 Brown Street\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : null,
+				"SPATIAL_LENGTH" : "37",
+				"SPATIAL_AREA" : "50",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.989656499999995",
+				"LOCATION_Y" : "-33.871491349999999",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : null,
+				"LAST_SYNC_DATE" : "20210315131909",
+				"LAST_MODIFIED_USER" : null,
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 1640
+			}
+		},
+        {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.989506, -33.871669 ],
+						[ 150.989477, -33.871667 ],
+						[ 150.989453, -33.871786 ],
+						[ 150.989446, -33.871801 ],
+						[ 150.989475, -33.871802 ],
+						[ 150.98948, -33.871789 ],
+						[ 150.989506, -33.871669 ]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12681941,
+				"TPKLPAPROP" : "227525",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : null,
+				"SEQUENCE_ID" : null,
+				"LIST_CODE" : null,
+				"NATURE_STRIP_ID" : "FX8-KWS-5R6-OO8",
+				"MOWING_TASK" : "NO",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : null,
+				"FREQUENCY" : null,
+				"LOCATION" : "26 Brown Street\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "26 Brown Street\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : null,
+				"SPATIAL_LENGTH" : "35",
+				"SPATIAL_AREA" : "39",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.989478999999989",
+				"LOCATION_Y" : "-33.871727810000003",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : null,
+				"LAST_SYNC_DATE" : "20210315131909",
+				"LAST_MODIFIED_USER" : null,
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 1660
+			}
+		},
+        {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.997542, -33.870617 ],
+						[ 150.997525, -33.870614 ],
+						[ 150.997477, -33.870625 ],
+						[ 150.997384, -33.870647 ],
+						[ 150.99738, -33.870685 ],
+						[ 150.997489, -33.87066 ],
+						[ 150.997523, -33.870656 ],
+						[ 150.997535, -33.870657 ],
+						[ 150.997542, -33.870617 ]
+					]
+				]
+			},
+			"properties" : {
+				"GIS_ID" : 12681967,
+				"TPKLPAPROP" : "189473",
+				"ASSET_ID" : null,
+				"OLD_ASSET_ID" : null,
+				"ASSET_NAME" : null,
+				"ASSET_CLASS" : null,
+				"ASSET_TYPE" : null,
+				"RUN" : null,
+				"SEQUENCE_ID" : null,
+				"LIST_CODE" : null,
+				"NATURE_STRIP_ID" : "7K1-N4Z-L30-RW2",
+				"MOWING_TASK" : "NO",
+				"OLD_TYPE" : null,
+				"NEW_TYPE" : null,
+				"FREQUENCY" : null,
+				"LOCATION" : "10 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ADDRESS" : "10 Gurney Road\rCHESTER HILL  NSW  2162",
+				"ORIGINAL_ADDRESS" : null,
+				"SPATIAL_LENGTH" : "39",
+				"SPATIAL_AREA" : "61",
+				"SPATIAL_DISTANCE" : "0.00000000",
+				"LOACTION_X" : "150.997459800000001",
+				"LOCATION_Y" : "-33.870651700000003",
+				"SUBURB" : "CHESTER HILL",
+				"WARD_NAME" : "BASS HILL",
+				"LAYER_NAME" : "CBC Nature Strip",
+				"CREATED_DATE" : "20210308191056",
+				"CREATED_BY_USER" : "robert.noar",
+				"LAST_MODIFIED_DATE" : null,
+				"LAST_SYNC_DATE" : "20210315131909",
+				"LAST_MODIFIED_USER" : null,
+				"DATA_QUALITY" : null,
+				"DATA_SOURCE" : null,
+				"MI_STYLE" : "Pen (1,2,32768) Brush (2,11599792,16777215)",
+				"MI_PRINX" : 1686
+			}
+		},
 		{
 			"type" : "Feature",
 			"geometry" : {
