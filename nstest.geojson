@@ -71,7 +71,7 @@
 				]
 			},
 			"properties" : {
-				"ID" : 11913,
+				"ID" : "11913",
 				"GIS_ID" : 12680282,
 				"TPKLPAPROP" : "189546",
 				"ASSET_ID" : null,
@@ -124,7 +124,7 @@
 				]
 			},
 			"properties" : {
-				"ID" : 11604,
+				"ID" : "11604",
 				"GIS_ID" : 12680283,
 				"TPKLPAPROP" : "178645",
 				"ASSET_ID" : null,
