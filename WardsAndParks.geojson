@@ -578,4 +578,3 @@
 { "type": "Feature", "properties": { "GIS_ID": 0.0, "ASSET_ID": "RCA00848", "Suburb":"Campsie", "NAME": "Campsie Street Reserve", "OPEN_SPACE_NAME": "Campsie Street Reserve", "Checked": "", "ASSET_TYPE": "Open Space", "Hierarchy": "Local", "ASSET_SUB_TYPE": "Open Space", "M2": 1091.1268310546875, "LAYER_NAME": "Road Reserve", "Playground": "No", "Off_Leash_Area": "No", "BBQ": "No", "Bubbler": "No", "Sports_Lighting": "", "Irrigation": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 151.095039729950003, -33.912047433281131 ], [ 151.095136869596217, -33.91221282288992 ], [ 151.095662319494494, -33.912004665382952 ], [ 151.095570561286678, -33.911840657874997 ], [ 151.095534708055055, -33.911855279195315 ], [ 151.095367234377477, -33.911920425561938 ], [ 151.095039729950003, -33.912047433281131 ] ] ] } }
 ]
 }
-
